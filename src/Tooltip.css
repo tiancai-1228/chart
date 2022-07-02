@@ -1,0 +1,12 @@
+.info {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 30px;
+  border-radius: 10px;
+  padding: 6px 10px;
+  background: #444444;
+  color: #dfe3ee;
+  box-shadow: 0px 2px 4px;
+  width: 100%;
+}

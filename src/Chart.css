@@ -1,0 +1,13 @@
+.content {
+  height: 100%;
+  margin-top: 46px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.chart {
+  display: flex;
+  align-items: flex-end;
+}
